@@ -1,0 +1,22 @@
+{
+  "name": "socket-chat",
+  "version": "1.0.0",
+  "description": "Tutorial chat app from socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelRoberts214/socket-chat.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "mr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichaelRoberts214/socket-chat/issues"
+  },
+  "homepage": "https://github.com/MichaelRoberts214/socket-chat#readme"
+}
