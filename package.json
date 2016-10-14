@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/MichaelRoberts214/socket-chat/issues"
   },
-  "homepage": "https://github.com/MichaelRoberts214/socket-chat#readme"
+  "homepage": "https://github.com/MichaelRoberts214/socket-chat#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
